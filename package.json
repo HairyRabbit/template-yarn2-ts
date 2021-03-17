@@ -1,0 +1,6 @@
+{
+  "name": "template-yarn2-ts",
+  "devDependencies": {
+    "typescript": "^4.2.3"
+  }
+}
